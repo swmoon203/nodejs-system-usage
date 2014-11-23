@@ -1,0 +1,32 @@
+{
+	"name": "system-usage",
+	"description": "simple way to lookup cpu usage for linux, also work with plot.ly",
+	"version": "0.1.0",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/swmoon203/nodejs-system-usage.git"
+	},
+	"author": {
+		"name": "Sung Wook Moon",
+		"email": "mtjddnr@gmail.com",
+		"url": "https://github.com/swmoon203"
+	},
+	"readme": "",
+	"readmeFilename": "README.md",
+	"bugs": { "url": "https://github.com/swmoon203/nodejs-system-usage/issues" },
+	"dependencies": {
+		"plotly": "0.2.13",
+		"readable-stream": "~1.0.26",
+		"date-format-lite": "0.5.0"
+	},
+	"keywords": [
+		"linux",
+		"cpu",
+		"usage",
+		"plotly",
+		"memory",
+		"realtime"
+	],
+	"license": "MIT"
+}
