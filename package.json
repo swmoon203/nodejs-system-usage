@@ -1,7 +1,7 @@
 {
 	"name": "system-usage",
 	"description": "simple way to lookup cpu usage for linux, also work with plot.ly",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
