@@ -50,8 +50,7 @@ var stream = usage.createStream();
 stream.pipe("cpu", process.stdout);
 ```
 
-##Plot.ly
-<iframe width="100%" height="500" frameborder="0" seamless="seamless" scrolling="no" src="https://plot.ly/~mtjddnr/16.embed"></iframe>
+##Plot.ly 
 
 > Live Streaming Example from https://www.npmjs.org/package/plotly
 
@@ -142,3 +141,4 @@ usage.plotlyStream(username, apiKey, data, graphOptions, function(err, msg) {
 });
 ```
 
+Demo https://plot.ly/~mtjddnr/16
